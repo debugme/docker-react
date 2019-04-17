@@ -7,7 +7,3 @@ it('renders without crashing', () => {
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
 });
-
-it('one should be two', () => {
-  expect(1).toBe(2)
-});
