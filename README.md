@@ -33,3 +33,5 @@
     (*) Create a .travis.yml file in your project folder
     (*) Add, commit and push that .travis.yml file
     (*) Note how that triggers Travis CI to run tests
+
+(5) Configure AWS ElasticBeanstalk, S3 and IAM
